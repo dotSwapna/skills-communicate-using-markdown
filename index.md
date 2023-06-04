@@ -9,3 +9,7 @@ How you find this repo useful!
  Date date = Date.from(localDate.atStartOfDay(ZoneId.systemDefault()).toInstant());
         
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
